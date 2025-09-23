@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    font-size: medium;
+}
+p{
+    
+    color: black;
+    font-size: medium;
+    background-color: bisque    ;
+    padding: auto;  
+}
+h1
+{
+    font-size: large;
+    font-style: italic;
+}
